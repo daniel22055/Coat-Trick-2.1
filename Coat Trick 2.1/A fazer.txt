@@ -1,0 +1,5 @@
+Banco 
+Area administrativa 
+Valisação do campo
+Conecção com o campo 
+Responsividade de texto
